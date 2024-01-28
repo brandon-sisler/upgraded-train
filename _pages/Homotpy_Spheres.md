@@ -1,6 +1,7 @@
 ---
 permalink: /Homotopy Spheres/
 title: "Homotopy Spheres Table"
+usemathjax: true
 ---
 
 
