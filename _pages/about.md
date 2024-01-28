@@ -3,10 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
 
 Its time to test if math works here \(x = 8 \cdots 9\). \[\mathbb{R}\] .
 
