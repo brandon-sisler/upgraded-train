@@ -5,7 +5,6 @@ title: "Homotopy Spheres Table"
 
 
 Table of Homotopy Groups of Spheres. Adding proofs.
-Note: Open README file before clicking links.
 
 
 |  | $\pi_1(-)$ | $\pi_2(-)$ | $\pi_3(-)$ | $\cdots$ |
